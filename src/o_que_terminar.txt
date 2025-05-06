@@ -1,0 +1,6 @@
+- fazer promoção modificar diretamente metodo da controller
+- voltar a colocar metodo de desconto
+-fazer a promoção de terça pegar qd for terça (segunda)
+- terminar de unir as interfaces com o sistema
+-incluir um generic
+- fazer os testes.
